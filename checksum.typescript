@@ -1,0 +1,14 @@
+Script started on Tue 16 Feb 2021 08:31:42 PM PST
+]0;dc647887@ssh: ~/comp122/checksum.c[01;32mdc647887@ssh[00m:[01;34m~/comp122/checksum.c[00m$ cat 156,[K.txt[K[K[K[K[K[K[K156.txt | ./ints2bytes | ./checksum
+Stored Checksum: 55, Computed Checksum: 36
+Error Detected!
+]0;dc647887@ssh: ~/comp122/checksum.c[01;32mdc647887@ssh[00m:[01;34m~/comp122/checksum.c[00m$ cat 229.txt | ins[Kts[K[K[K[K./ [Kints2bytes | ./checksum
+Stored Checksum: 55, Computed Checksum: 194
+Error Detected!
+]0;dc647887@ssh: ~/comp122/checksum.c[01;32mdc647887@ssh[00m:[01;34m~/comp122/checksum.c[00m$ cat [K 81.txt | ./ints2vytes[K[K[K[K[Kbytes | ./checksum
+Stored Checksum: 225, Computed Checksum: 51
+Error Detected!
+]0;dc647887@ssh: ~/comp122/checksum.c[01;32mdc647887@ssh[00m:[01;34m~/comp122/checksum.c[00m$ exit
+exit
+
+Script done on Tue 16 Feb 2021 08:34:04 PM PST
